@@ -1,0 +1,22 @@
+[
+  {
+    "imgSrc": "education.svg",
+    "title": "Batch",
+    "content": "II Year (2023-27)"
+  },
+  {
+    "imgSrc": "email.svg",
+    "title": "Email",
+    "content": "shlok@gmail.com"
+  },
+  {
+    "imgSrc": "phone.svg",
+    "title": "Phone",
+    "content": "+91 99999 99999"
+  },
+  {
+    "imgSrc": "location.svg",
+    "title": "Location",
+    "content": "Dehradun, UK, IN"
+  }
+]

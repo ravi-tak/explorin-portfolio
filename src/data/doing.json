@@ -1,0 +1,22 @@
+[
+  {
+    "imgSrc": "analysis.svg",
+    "title": "Data Analysis",
+    "content": "Unveiling Insights From Data. Embarking on a Journey of Analyzing Information as a First-Semester Explorer."
+  },
+  {
+    "imgSrc": "development.svg",
+    "title": "Web Development",
+    "content": "Crafting Digital Experiences ✨ | Navigating the World of Web Development as a First-Semester Adventurer."
+  },
+  {
+    "imgSrc": "content.svg",
+    "title": "Content Creation",
+    "content": "Weaving Stories and Ideas Into Content 📝 | Embracing the Magic of Creativity as a First-Semester Wordsmith."
+  },
+  {
+    "imgSrc": "networking.svg",
+    "title": "Professional Networking",
+    "content": "Connecting Beyond Pixels and Cables 🔗 | Embarking on a Journey of Building Digital Bridges as a First-Semester Voyager."
+  }
+]
